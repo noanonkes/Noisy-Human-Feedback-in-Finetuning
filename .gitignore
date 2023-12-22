@@ -1,4 +1,3 @@
-/__pycache__
-/images
-/jobs
-/slurm_output
+__pycache__/
+jobs/
+slurm_output/
